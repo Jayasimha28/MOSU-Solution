@@ -1,0 +1,4 @@
+PVC created kubestr-fio-pvc-pqths
+Pod created kubestr-fio-pod-hs2nd
+Running FIO test (default-fio) on StorageClass (oci-bv) with a PVC of Size (50Gi)
+Elapsed time- 24.963895321s

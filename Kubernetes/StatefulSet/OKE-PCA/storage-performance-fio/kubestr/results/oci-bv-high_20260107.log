@@ -1,4 +1,0 @@
-PVC created kubestr-fio-pvc-bcw46
-Pod created kubestr-fio-pod-dj68q
-Running FIO test (default-fio) on StorageClass (oci-bv-high) with a PVC of Size (50Gi)
-Elapsed time- 25.890352122s

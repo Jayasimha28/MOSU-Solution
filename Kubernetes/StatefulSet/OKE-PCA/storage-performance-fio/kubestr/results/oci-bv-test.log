@@ -1,3 +1,0 @@
-FIO test results:
-  unable to find namespace (kubestr-test): namespaces "kubestr-test" not found  -  [1;31mError[0m
-Error: unable to find namespace (kubestr-test): namespaces "kubestr-test" not found

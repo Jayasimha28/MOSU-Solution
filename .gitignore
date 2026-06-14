@@ -1,0 +1,26 @@
+# Kubernetes
+*.kubeconfig
+kubeconfig
+
+# Terraform
+*.tfstate
+*.tfstate.*
+
+# Secrets
+*.pem
+*.key
+*.crt
+*.p12
+*.jks
+
+# Environment files
+.env
+.env.*
+
+# VSCode
+.vscode/settings.json
+
+# Linux
+*.swp
+*~
+certifications/CKA/MENTOR-CONTEXT.md

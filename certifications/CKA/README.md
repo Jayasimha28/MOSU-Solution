@@ -36,12 +36,14 @@ Prepare for and pass the Certified Kubernetes Administrator (CKA) certification 
 * ✅ Node Affinity
 * ✅ Rollouts & Rollbacks
 
+### Week 3
+
+* ✅ Service Types (NodePort)
+* ✅ NetworkPolicy (default-deny + scoped allow)
+* ✅ CoreDNS Troubleshooting
+
 ### Upcoming Topics
 
-* Services
-* Networking
-* Network Policies
-* CoreDNS
 * Storage
 * RBAC
 * ETCD Backup & Restore

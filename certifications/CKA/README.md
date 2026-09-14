@@ -42,10 +42,13 @@ Prepare for and pass the Certified Kubernetes Administrator (CKA) certification 
 * ✅ NetworkPolicy (default-deny + scoped allow)
 * ✅ CoreDNS Troubleshooting
 
+### Week 4 (In Progress)
+
+* ✅ Storage (PVC + dynamic provisioning)
+* ⬜ RBAC
+
 ### Upcoming Topics
 
-* Storage
-* RBAC
 * ETCD Backup & Restore
 * Cluster Upgrades
 * Troubleshooting
